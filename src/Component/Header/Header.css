@@ -1,0 +1,21 @@
+.navbar 
+{
+   background-color:  #b8b3b3; 
+  
+   
+  
+}
+
+
+.nav-btn .btn
+{
+   color: black;
+   border: 1px solid black;
+   
+}
+
+.nav-btn .btn:hover
+{
+  background-color: #eceae9;
+  border: 1px solid black;
+}

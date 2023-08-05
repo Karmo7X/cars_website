@@ -1,0 +1,30 @@
+.box
+{
+    
+    width: 300px;
+    height: 300px;
+    transition: 0.4s ease-in-out;
+    border-radius: 10px;
+    
+}
+
+.box img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.Category_content
+{
+  background:  #0F1317;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.Category_content h3 ,.Category_content p
+{
+  color: #095990;
+}
+
+.box:hover{
+   transform: scale(1.25);
+} 
